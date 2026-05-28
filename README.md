@@ -45,7 +45,7 @@ Meu objetivo é me tornar um desenvolvedor Full Stack profissional, criando sist
 # 📫 Contato
 
 📧 Email: lucas.miguel1809@hotmail.com  
-🐙 GitHub: https://github.com/Lucas-Miguel
+🐙 GitHub: https://github.com/lucasmiguel389
 
 ---
 
