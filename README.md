@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Lucas-Miguel.png" width="140px" style="border-radius:50%" />
+<img src="https://github.com/lucasmiguel389.png" width="140px" style="border-radius:50%" />
 
 # Olá, eu sou Lucas Miguel 👋
 
