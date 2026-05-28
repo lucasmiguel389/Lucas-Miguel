@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/lucasmiguel389.png" width="140px" style="border-radius:50%" />
+<img src="https://github.com/lucas389.png" width="140px" style="border-radius:50%" />
 
 # Olá, eu sou Lucas Miguel 👋
 
@@ -45,7 +45,7 @@ Meu objetivo é me tornar um desenvolvedor Full Stack profissional, criando sist
 # 📫 Contato
 
 📧 Email: lucas.miguel1809@hotmail.com  
-🐙 GitHub: https://github.com/lucasmiguel389
+🐙 GitHub: https://github.com/lucas389
 
 ---
 
@@ -88,13 +88,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
 
 <div align="center">
 
-<a href="https://github.com/Lucas-Miguel">
+<a href="https://github.com/lucas389">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Lucas-Miguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=lucas389&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Miguel&layout=compact&langs_count=7&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas389&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -105,7 +105,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Miguel
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Miguel&theme=tokyonight"
+src="https://github-readme-streak-stats.herokuapp.com/?user=lucas389&theme=tokyonight"
 />
 
 </div>
@@ -117,7 +117,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Miguel&theme=t
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=Lucas-Miguel&theme=tokyonight&row=1&column=6"
+src="https://github-profile-trophy.vercel.app/?username=lucas389&theme=tokyonight&row=1&column=6"
 />
 
 </div>
